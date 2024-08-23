@@ -1,0 +1,1 @@
+console.log('This is #3rd file')
