@@ -1,8 +1,7 @@
-Новые быстрые клавиши. … Быстрые клавиши для работы с Диском обновлены, и теперь у вас есть возможность навигации по первым буквам слов.
 .app {
     position: absolute;
     left: 30%;
-    transform: rotateX(-50%);
+    transform: rotateX(-50deg);
     text-align: center;
 }
 
@@ -36,7 +35,6 @@ button {
     width: 80px;
     height: 80px;
     background-color: rgb(48, 48, 99);
-    margin-top: 10px;
     border-radius: 100%;
     display: flex;
     justify-content: center;
